@@ -1,0 +1,6 @@
+# Archivos y carpetas a ignorar por Git
+_pycache_/
+*.pyc
+.env
+.DS_Store
+.ipynb_checkpoints/
