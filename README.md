@@ -12,3 +12,10 @@ Este proyecto es una aplicación web desarrollada con Streamlit que permite expl
 ## Objetivo
 
 El objetivo de esta app es facilitar el análisis exploratorio de los datos para observar patrones y relaciones entre variables clave como precio, kilometraje y año del modelo.
+
+
+## Enlace a la aplicación
+
+Haz clic en el siguiente enlace para ver la aplicación desplegada en Render:
+
+🔗 [Aplicación en vivo](https://vehiculos-app-66kb.onrender.com)
