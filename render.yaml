@@ -1,0 +1,9 @@
+services:
+  - type: web
+    name: vehiculos-app
+    env: python
+    buildCommand: ""
+    startCommand: streamlit run notebooks/app.py
+    envVars:
+      - key: PYTHON_VERSION
+        value: 3.10
