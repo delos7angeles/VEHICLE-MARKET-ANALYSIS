@@ -1,21 +1,58 @@
-# Análisis de Vehículos Usados en Venta
+# 🚗 Análisis de Mercado de Vehículos / Vehicle Market Analysis
 
-Este proyecto es una aplicación web desarrollada con Streamlit que permite explorar un conjunto de datos de vehículos usados en venta.
+## 📌 Descripción / Description
+*ES:*  
+Este proyecto es una aplicación web desarrollada con *Streamlit* que permite explorar datos de anuncios de vehículos usados en EE.UU.  
+El análisis se enfoca en identificar patrones y relaciones entre precio, kilometraje, año del modelo y otras variables.
 
-## Funcionalidades
+*EN:*  
+This project is a web application built with *Streamlit* that allows exploring used car listings data in the US.  
+The analysis focuses on identifying patterns and relationships between price, mileage, model year, and other variables.
 
-- Muestra una vista previa de los primeros registros del dataset.
-- Permite visualizar un histograma del año del modelo.
-- Permite visualizar un gráfico de dispersión entre el kilometraje (odometer) y el precio.
-- Interfaz interactiva con botones y/o casillas de verificación.
+---
 
-## Objetivo
+## 🎯 Objetivo / Objective
+*ES:*  
+Facilitar el análisis exploratorio de los datos para detectar tendencias en el mercado de vehículos y ayudar a la toma de decisiones informadas.
 
-El objetivo de esta app es facilitar el análisis exploratorio de los datos para observar patrones y relaciones entre variables clave como precio, kilometraje y año del modelo.
+*EN:*  
+Enable exploratory data analysis to identify market trends and support data-driven decision making.
 
+---
 
-## Enlace a la aplicación
+## 🛠 Herramientas / Tools
+•⁠  ⁠Python (pandas, numpy, matplotlib, seaborn)
+•⁠  ⁠Streamlit (para el dashboard interactivo)
+•⁠  ⁠Render (para el despliegue de la aplicación)
+•⁠  ⁠Git & GitHub (para control de versiones)
 
-Haz clic en el siguiente enlace para ver la aplicación desplegada en Render:
+---
 
-🔗 [Aplicación en vivo](https://vehiculos-app-66kb.onrender.com)
+## 🔍 Proceso / Process
+•⁠  ⁠Limpieza de datos: manejo de valores ausentes y duplicados  
+•⁠  ⁠Análisis exploratorio: distribución de precios, kilometraje y años de modelo  
+•⁠  ⁠Visualización: gráficos interactivos para descubrir patrones  
+•⁠  ⁠Despliegue: creación de una app en Streamlit y publicación en Render  
+
+---
+
+## 📊 Resultados / Results
+*ES:*  
+•⁠  ⁠Identificación de la relación entre precio y kilometraje.  
+•⁠  ⁠Detección de la depreciación del valor de los coches según su año.  
+•⁠  ⁠Distribución de precios por tipo de vehículo.  
+
+*EN:*  
+•⁠  ⁠Identified relationship between price and mileage.  
+•⁠  ⁠Found depreciation patterns based on car model year.  
+•⁠  ⁠Price distribution by vehicle type.
+
+---
+
+## 🌐 Enlace a la aplicación / Live App
+🔗 [Aplicación en vivo | Live App](https://vehiculos-app-66h8.onrender.com)
+
+---
+
+## 📎 Notebook
+•⁠  ⁠[Jupyter Notebook con el análisis completo](notebooks/tu_notebook.ipynb)
