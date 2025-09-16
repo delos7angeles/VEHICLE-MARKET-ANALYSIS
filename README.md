@@ -48,11 +48,8 @@ Enable exploratory data analysis to identify market trends and support data-driv
 •⁠  ⁠Price distribution by vehicle type.
 
 ---
-
-## 🌐 Enlace a la aplicación / Live App
-🔗 [Aplicación en vivo | Live App] 
-https://vehiculos-app-66kb.onrender.com
----
+*Enlace a la aplicación / Live App:*  
+[Aplicación en vivo | Live App](https://vehiculos-app-66kb.onrender.com)
 
 ## 📎 Notebook
 •⁠  ⁠[Jupyter Notebook con el análisis completo](notebooks/tu_notebook.ipynb)
