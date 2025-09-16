@@ -52,4 +52,4 @@ Enable exploratory data analysis to identify market trends and support data-driv
 [Aplicación en vivo | Live App](https://vehiculos-app-66kb.onrender.com)
 
 ## 📎 Notebook
-•⁠  ⁠[Jupyter Notebook con el análisis completo](notebooks/tu_notebook.ipynb)
+•⁠  ⁠[Jupyter Notebook con el análisis completo](notebooks/EDA.ipynb)
