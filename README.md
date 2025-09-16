@@ -50,7 +50,8 @@ Enable exploratory data analysis to identify market trends and support data-driv
 ---
 
 ## 🌐 Enlace a la aplicación / Live App
-🔗 [Aplicación en vivo | Live App] https://vehiculos-app-66kb.onrender.com
+🔗 [Aplicación en vivo | Live App] 
+https://vehiculos-app-66kb.onrender.com
 ---
 
 ## 📎 Notebook
