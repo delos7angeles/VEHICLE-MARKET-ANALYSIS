@@ -2,7 +2,7 @@
 
 ## 📌 Descripción / Description
 *ES:*  
-Este proyecto es una aplicación web desarrollada con *Streamlit* que permite explorar datos de anuncios de vehículos usados en EE.UU.  
+Este proyecto es una aplicación web desarrollada con *Streamlit* que permite explorar datos de anuncios de vehículos usados en EE.UU. 
 El análisis se enfoca en identificar patrones y relaciones entre precio, kilometraje, año del modelo y otras variables.
 
 *EN:*  
